@@ -1,0 +1,68 @@
+ <html>
+      <head>
+             <title>Podróże</title>
+      </head>
+
+<div class="container">
+
+      <body bgcolor="d4e6f1">
+      <img src="europa.jpg" align=right>
+      <h1>Podróże po stolicach Europy</h1>
+      <h3><i> Na stronie znajdziesz informacje o stolicach europejskich: </i></h3>
+      <Li>Poznasz najważniejsze zabytki i obiekty tych miast.</Li>
+      <Li>Zobaczysz ciekawe miejsca na fotografiach.</Li>
+      <Li>Poznasz ciekawostki historyczne tego miasta.</Li>
+     
+      
+   
+      
+
+
+<table border="1" bgcolor="#FF99FF">
+<style>
+table {
+  width: 50%;
+}
+
+th {
+  height: 70px;
+}
+
+</style>
+          <tr bgcolor=" #85c1e9 ">
+              <td><b>Państwo</b></td><td><b>Stolica</b></td>
+          </tr>
+          <tr bgcolor="white">
+              <td> Czechy</td>  <td> <a href='stolica_praga.html'>  Praga  </a> </b> </td>
+          </tr>
+          <tr bgcolor="white">
+                <td> Anglia</td>  <td> <a href='stolica_londyn.html'>  Londyn  </a> </b> </td>
+          <tr bgcolor="white">
+                <td> Francja</td>  <td> <a href='stolica_paryz.html'>  Paryż  </a> </b> </td>
+          </tr>
+           <tr bgcolor="white">
+                <td> Hiszpania</td>  <td> <a href='stolica_madryt.html'>  Madryt </a> </b> </td>
+          </tr>
+               <tr bgcolor="white">
+                <td> Niemcy</td>  <td> <a href='stolica_berlin.html'>  Berlin </a> </b> </td>
+          </tr>
+      </table>
+    
+  </body>
+
+  <footer>
+<style>
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 100px;
+}
+</style>
+
+
+        <p>© 2021 A.S</p>
+    </footer>
+
+</div>
+
+</html>
